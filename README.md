@@ -22,3 +22,5 @@ latihan 5
 latihan 6
 ![alt text](https://github.com/PutuEsa/Praktikum3/blob/master/ss/Screenshot%20(95).png)
 <br>
+
+Untuk Tugas membuat login menggunakan username : admin1 dan password : admin1 untuk kondisi berhasil
